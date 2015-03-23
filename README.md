@@ -1,2 +1,3 @@
 # lockless-spsc-queue
-A lockless Single Producer, Single Consumer, Queue.
+
+A lockless first in first out queue that is thread safe for a single concurrent writer and single reader.
